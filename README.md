@@ -8,4 +8,4 @@ Controll:
 A,LEFT - move left
 D,RIGHT - move right
 
-See ya.
+See ya!
